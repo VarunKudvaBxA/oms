@@ -1,3 +1,5 @@
+# Order Management System
+
 We chose Spring Boot because: It simplifies Spring setup, no XML config needed. Provides embedded server (Tomcat).
 Supports REST API development easily.
 Maven manages dependencies automatically. Standard for Java projects.
